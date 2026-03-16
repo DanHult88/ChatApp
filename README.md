@@ -3,4 +3,4 @@ Creating a chat app using React.
 
 (Work in progress)
 
-touching up on this.
+touching up on this eventually.
